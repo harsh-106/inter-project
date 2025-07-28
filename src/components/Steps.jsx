@@ -6,19 +6,19 @@ const steps = [
     id: 1,
     title: "Sign Up With GreenBank",
     description: "Create your GreenBank account and unlock a world of financial possibilities.",
-    image: "src/assets/signup (1).png",
+    image: "../signup (1).png",
   },
   {
     id: 2,
     title: "Connect Your Accounts",
     description: "Link all your financial accounts effortlessly to GreenBank and manage everything in one place.",
-    image: "src/assets/Deco (1).png",
+    image: "../Deco (1).png",
   },
   {
     id: 3,
     title: "Start Saving & Growing",
     description: "Use smart tools to track spending, save efficiently, and grow your money automatically.",
-    image: "src/assets/netflix.png",
+    image: "../netflix.png",
   },
 ];
 

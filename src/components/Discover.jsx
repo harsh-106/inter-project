@@ -93,7 +93,7 @@ const Discover = () => {
                 viewport={{ once: true }}
               >
                 <img 
-                  src="src/assets/image_15 (1) (1).png" 
+                  src="../image_15 (1) (1).png" 
                   alt="VISA" 
                   className="w-full max-w-md sm:w-auto"
                 />
@@ -130,7 +130,7 @@ const Discover = () => {
                 viewport={{ once: true }}
               >
                 <img 
-                  src="src/assets/image_18 (1).png" 
+                  src="../image_18 (1).png" 
                   alt="Financial Goals" 
                   className="w-full max-w-md sm:w-auto h-auto sm:h-[500px]"
                 />
@@ -167,7 +167,7 @@ const Discover = () => {
                 viewport={{ once: true }}
               >
                 <img 
-                  src="src/assets/image_21 (1).png" 
+                  src="../image_21 (1).png" 
                   alt="Spending Insights" 
                   className="w-full max-w-md sm:w-auto h-auto sm:h-[500px]"
                 />
