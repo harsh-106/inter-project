@@ -1,12 +1,19 @@
-# React + Vite
+# 🧠 Inter Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive scroll animation project using **React.js**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
 
-Currently, two official plugins are available:
+## 🔥 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Scroll-based animations (fade-in, slide-up)
+- Cards appear one-by-one from bottom to top
+- Cards stack as user scrolls
+- Fully responsive UI
+- Built with clean React components
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- Tailwind CSS
+- Framer Motion
+
